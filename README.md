@@ -62,7 +62,7 @@ Perform ETL validation using Python scripting.
 
 ## Authors
 
-- [Varma Prasad S](https://github.com/varma-prasad)
+- Ria Lal Kurisinkal(https://github.com/RiaLal)
 
 ## Skills
 SQL, ETL, Python, Power BI...
@@ -73,7 +73,7 @@ SQL, ETL, Python, Power BI...
 
 ## Maintainer
 
-- Tamanna Khanna - Software Developer
+- Ria Lal Kurisinkal - Data Engineer
 
 About the Developer:
-Tamanna is a 3rd-year B.Tech student at Manipal University Jaipur with a passion for software development and data-related technologies. Contact [Email] for inquiries.
+| riajoyal20@gmail.com | linkedin.com/in/ria-kurisinkal
